@@ -1,0 +1,10 @@
+F:\visual studio proje\OKUL KAYDI GEÇTİ KALDI\OKUL KAYDI GEÇTİ KALDI\bin\Debug\OKUL KAYDI GEÇTİ KALDI.exe.config
+F:\visual studio proje\OKUL KAYDI GEÇTİ KALDI\OKUL KAYDI GEÇTİ KALDI\bin\Debug\OKUL KAYDI GEÇTİ KALDI.exe
+F:\visual studio proje\OKUL KAYDI GEÇTİ KALDI\OKUL KAYDI GEÇTİ KALDI\bin\Debug\OKUL KAYDI GEÇTİ KALDI.pdb
+F:\visual studio proje\OKUL KAYDI GEÇTİ KALDI\OKUL KAYDI GEÇTİ KALDI\obj\Debug\OKUL KAYDI GEÇTİ KALDI.csprojResolveAssemblyReference.cache
+F:\visual studio proje\OKUL KAYDI GEÇTİ KALDI\OKUL KAYDI GEÇTİ KALDI\obj\Debug\OKUL_KAYDI_GEÇTİ_KALDI.Form1.resources
+F:\visual studio proje\OKUL KAYDI GEÇTİ KALDI\OKUL KAYDI GEÇTİ KALDI\obj\Debug\OKUL_KAYDI_GEÇTİ_KALDI.Properties.Resources.resources
+F:\visual studio proje\OKUL KAYDI GEÇTİ KALDI\OKUL KAYDI GEÇTİ KALDI\obj\Debug\OKUL KAYDI GEÇTİ KALDI.csproj.GenerateResource.cache
+F:\visual studio proje\OKUL KAYDI GEÇTİ KALDI\OKUL KAYDI GEÇTİ KALDI\obj\Debug\OKUL KAYDI GEÇTİ KALDI.csproj.CoreCompileInputs.cache
+F:\visual studio proje\OKUL KAYDI GEÇTİ KALDI\OKUL KAYDI GEÇTİ KALDI\obj\Debug\OKUL KAYDI GEÇTİ KALDI.exe
+F:\visual studio proje\OKUL KAYDI GEÇTİ KALDI\OKUL KAYDI GEÇTİ KALDI\obj\Debug\OKUL KAYDI GEÇTİ KALDI.pdb
