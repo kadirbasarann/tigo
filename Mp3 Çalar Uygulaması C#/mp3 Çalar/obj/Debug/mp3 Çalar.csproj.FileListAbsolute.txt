@@ -1,0 +1,31 @@
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\bin\Debug\mp3 Çalar.exe.config
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\bin\Debug\mp3 Çalar.exe
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\bin\Debug\mp3 Çalar.pdb
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.csproj.AssemblyReference.cache
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.csproj.ResolveComReference.cache
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\obj\Debug\mp3_Çalar.Form1.resources
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\obj\Debug\mp3_Çalar.Properties.Resources.resources
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.csproj.GenerateResource.cache
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.csproj.CoreCompileInputs.cache
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.exe
+C:\Users\Kadir.DESKTOP-G7QU36H\Desktop\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.pdb
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\bin\Debug\mp3 Çalar.exe.config
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\bin\Debug\mp3 Çalar.exe
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\bin\Debug\mp3 Çalar.pdb
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\bin\Debug\Interop.WMPLib.dll
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\bin\Debug\AxInterop.WMPLib.dll
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.csproj.AssemblyReference.cache
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.csproj.SuggestedBindingRedirects.cache
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\Interop.WMPLib.dll
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\AxInterop.WMPLib.dll
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.csproj.ResolveComReference.cache
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\mp3_Çalar.Form1.resources
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\mp3_Çalar.Properties.Resources.resources
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.csproj.GenerateResource.cache
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.csproj.CoreCompileInputs.cache
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.exe
+D:\FORMAT MASAÜSTÜ\mp3 Çalar\mp3 Çalar\obj\Debug\mp3 Çalar.pdb
